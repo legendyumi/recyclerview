@@ -20,6 +20,8 @@ public class MainActivity extends Activity implements View.OnClickListener{
     private Button add_but,rm_but,save;
     String name;
     int wz;
+    int yu;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
