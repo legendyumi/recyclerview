@@ -1,3 +1,5 @@
+![](https://img.shields.io/badge/Yumi-666-green)
+
 Gradle Setup
 
 repositories {
