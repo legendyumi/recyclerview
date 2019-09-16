@@ -2,6 +2,7 @@
 
 # Gradle Setup
 
+```
 repositories {
     maven { url 'https://jitpack.io' }
 }
@@ -9,3 +10,4 @@ repositories {
 dependencies {
     implementation 'com.github.legendyumi:recyclerview:Tag'
 }
+```
